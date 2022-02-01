@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HealthCareAssistant</string>
+
+    <string name="auth_error">Please enter a valid email or password.</string>
+
+    <string-array name="availability_array">
+        <item>Select availability time</item>
+        <item>6am-8am</item>
+        <item>8am-10am</item>
+        <item>10am-12pm</item>
+        <item>12pm-2pm</item>
+        <item>2pm-4pm</item>
+        <item>4pm-6pm</item>
+        <item>6pm-8pm</item>
+        <item>8pm-10pm</item>
+        <item>10pm-12am</item>
+    </string-array>
+
+    <string-array name="department_array">
+        <item>Select Department</item>
+        <item>Cardiology</item>
+        <item>Dermatology</item>
+        <item>Hematology</item>
+        <item>Respirology</item>
+        <item>Surgery</item>
+    </string-array>
+</resources>
